@@ -20,7 +20,7 @@ def help(update: Update, context: CallbackContext):
     /bio - To access my bio
     /gmail - To get gmail URL
     /geeks - To get the GeeksforGeeks URL
-    /author - To visit author's website""")
+    /author - To visit author's website""") #Change your name commands
 
 
 def gmail_url(update: Update, context: CallbackContext):
